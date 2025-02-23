@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Kumar</h1>
-<h3 align="center">A passionate Computer Engineer from India</h3>
+<h3 align="center">A passionate Computer Engineer</h3>
 
 - 👨‍💻 LinkedIn [https://www.linkedin.com/in/neerajkumar45/](https://www.linkedin.com/in/neerajkumar45/)
   
