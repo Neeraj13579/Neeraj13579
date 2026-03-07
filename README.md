@@ -1,6 +1,7 @@
 # NEERAJ KUMAR 
 
-## 👨‍💻 Web Developer | Computer Engineer  
+## 👨‍💻 Computer Engineer | Backup and Cloud 
+Administration
 
 📩 **Email:** neeraj453318@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/neerajkumar45/](https://www.linkedin.com/in/neerajkumar45/)  
