@@ -76,20 +76,55 @@ I enjoy learning new technologies, solving technical challenges, automating repe
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
-
 ### 🏢 Professional Experience
 
-**System Administrator | Kyndryl India**
+**System Administrator | Kyndryl Solutions Private Limited**
 
-- Managing, monitoring, and maintaining Linux-based enterprise environments for JSW Group.
-- Performing Linux administration, user management, file system management, and service monitoring.
-- Supporting patch management, system hardening, and security configuration.
-- Troubleshooting system, network, storage, and performance-related issues.
-- Supporting enterprise Commvault backup and recovery operations.
-- Managing backup activities across 30,000+ endpoints supporting 45,000+ users.
-- Monitoring backup jobs, configuring agents, assigning storage policies, and performing data restoration.
-- Contributing to backup operations with a 90–92% SLA.
+📅 **July 2025 – Present**  
+📍 **Navi Mumbai, India**  
+🏢 **Client:** JSW Group (Steel & Manufacturing)
 
+#### 🐧 Linux System Administration
+
+- Monitored system alerts related to disk space, memory, and CPU utilization, and performed troubleshooting to resolve issues.
+- Configured and managed storage using **LVM, RAID, and disk partitioning**.
+- Managed Linux file systems, including **XFS and EXT4**, along with mounting and unmounting operations.
+- Performed regular Linux OS patching, security updates, and system hardening activities.
+- Installed, upgraded, patched, and troubleshot **Red Hat Enterprise Linux (RHEL)** systems.
+- Managed user accounts, groups, host configurations, and file systems.
+- Created and managed **hard links and symbolic (soft) links**.
+- Managed file permissions and ownership using `chmod`, `chown`, and `setfacl`.
+- Performed user account administration, including password changes, account unlocking, and password recovery.
+- Managed software installation, upgrades, and package management using **YUM and RPM**.
+- Automated routine system administration tasks using **Bash scripting**.
+- Analyzed system performance using tools such as `top`, `vmstat`, `netstat`, and CPU information utilities.
+- Performed memory and cache-related troubleshooting to support system performance optimization.
+
+#### 💾 Commvault Backup & Disaster Recovery
+
+- Deployed and configured **Commvault V11** across **30,000+ endpoints** for JSW Group, including CommServe, MediaAgent, and client agent setup.
+- Administered enterprise backup infrastructure supporting **45,000+ users** across multiple business locations.
+- Worked with **CommCell Console, Command Center, MediaAgents, Live Sync, Cloud Integration, and CommServe DR Recovery**.
+- Implemented Commvault Live Sync for disaster recovery replication and performed quarterly recovery point validation.
+- Maintained an average **90–92% Backup SLA** through proactive monitoring, troubleshooting, and backup job failure resolution.
+- Successfully executed **75+ production data restoration requests** with zero data-loss incidents while meeting RTO/RPO requirements.
+- Configured and managed backup policies, schedules, storage policies, subclients, and retention policies.
+- Installed, configured, and troubleshot Commvault agents across multiple enterprise environments.
+- Performed backup health monitoring, job failure analysis, log investigation, and root cause analysis.
+- Generated weekly backup success/failure reports, SLA reports, and operational updates for JSW stakeholders.
+- Coordinated with server, storage, network, and application teams for backup onboarding, disaster recovery testing, and restoration activities.
+- Supported enterprise backup compliance, infrastructure monitoring, disaster recovery planning, and operational governance.
+
+#### 🔧 Technologies & Tools
+
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Commvault](https://img.shields.io/badge/Commvault-0072CE?style=flat-square)
+![LVM](https://img.shields.io/badge/LVM-Storage-blue?style=flat-square)
+![XFS](https://img.shields.io/badge/XFS-File_System-orange?style=flat-square)
+![YUM](https://img.shields.io/badge/YUM-Package_Manager-red?style=flat-square)
+![RAID](https://img.shields.io/badge/RAID-Storage-green?style=flat-square)
 ---
 
 ### 🎓 Education
