@@ -17,6 +17,8 @@ I enjoy learning new technologies, solving technical challenges, automating repe
 - ☁️ Interested in AWS Cloud, Cloud Computing, and DevOps.
 - 🔧 Hands-on experience with LVM, RAID, patch management, system hardening, and troubleshooting.
 - 💾 Experienced in Commvault backup and recovery operations across **30,000+ endpoints**, supporting **45,000+ users**.
+- 🔧 Hands-on experience with Backup & Data Protection Disaster Recovery, Data Protection, Recovery Validation.
+- 🔧 Also work in Job Monitoring, Storage Policies, Subclient Configuration, Troubleshooting
 - 📊 Supported backup operations maintaining a **90–92% backup SLA**.
 - 🎓 B.E. Computer Engineering (Honors in Cyber Security).
 - 🏅 Gold Medalist, Batch 2024–25, Rizvi College of Engineering.
